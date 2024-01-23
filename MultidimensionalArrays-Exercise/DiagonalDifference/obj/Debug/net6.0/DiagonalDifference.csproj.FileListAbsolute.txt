@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\obj\Debug\net6.0\refint\DiagonalDifference.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\DiagonalDifference\obj\Debug\net6.0\ref\DiagonalDifference.dll

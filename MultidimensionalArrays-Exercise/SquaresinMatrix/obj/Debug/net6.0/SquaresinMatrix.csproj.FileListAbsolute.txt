@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\bin\Debug\net6.0\SquaresinMatrix.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\bin\Debug\net6.0\SquaresinMatrix.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\bin\Debug\net6.0\SquaresinMatrix.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\bin\Debug\net6.0\SquaresinMatrix.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\bin\Debug\net6.0\SquaresinMatrix.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\obj\Debug\net6.0\SquaresinMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\obj\Debug\net6.0\SquaresinMatrix.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\obj\Debug\net6.0\SquaresinMatrix.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\obj\Debug\net6.0\SquaresinMatrix.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\obj\Debug\net6.0\SquaresinMatrix.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\obj\Debug\net6.0\SquaresinMatrix.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\obj\Debug\net6.0\refint\SquaresinMatrix.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\obj\Debug\net6.0\SquaresinMatrix.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\obj\Debug\net6.0\SquaresinMatrix.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\SquaresinMatrix\obj\Debug\net6.0\ref\SquaresinMatrix.dll

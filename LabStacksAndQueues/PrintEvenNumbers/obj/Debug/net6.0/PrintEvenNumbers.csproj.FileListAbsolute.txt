@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\bin\Debug\net6.0\PrintEvenNumbers.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\bin\Debug\net6.0\PrintEvenNumbers.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\bin\Debug\net6.0\PrintEvenNumbers.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\bin\Debug\net6.0\PrintEvenNumbers.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\bin\Debug\net6.0\PrintEvenNumbers.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\obj\Debug\net6.0\refint\PrintEvenNumbers.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\PrintEvenNumbers\obj\Debug\net6.0\ref\PrintEvenNumbers.dll

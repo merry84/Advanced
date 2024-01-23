@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\bin\Debug\net6.0\Jagged-ArrayModification.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\bin\Debug\net6.0\Jagged-ArrayModification.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\bin\Debug\net6.0\Jagged-ArrayModification.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\bin\Debug\net6.0\Jagged-ArrayModification.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\bin\Debug\net6.0\Jagged-ArrayModification.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\obj\Debug\net6.0\Jagged-ArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\obj\Debug\net6.0\Jagged-ArrayModification.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\obj\Debug\net6.0\Jagged-ArrayModification.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\obj\Debug\net6.0\Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\obj\Debug\net6.0\Jagged-ArrayModification.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\obj\Debug\net6.0\Jagged-ArrayModification.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\obj\Debug\net6.0\refint\Jagged-ArrayModification.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\obj\Debug\net6.0\Jagged-ArrayModification.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\obj\Debug\net6.0\Jagged-ArrayModification.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\Jagged-ArrayModification\obj\Debug\net6.0\ref\Jagged-ArrayModification.dll

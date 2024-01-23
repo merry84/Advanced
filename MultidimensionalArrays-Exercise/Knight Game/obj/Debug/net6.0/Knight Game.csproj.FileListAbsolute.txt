@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\bin\Debug\net6.0\Knight Game.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\bin\Debug\net6.0\Knight Game.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\bin\Debug\net6.0\Knight Game.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\bin\Debug\net6.0\Knight Game.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\bin\Debug\net6.0\Knight Game.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\obj\Debug\net6.0\Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\obj\Debug\net6.0\Knight Game.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\obj\Debug\net6.0\Knight Game.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\obj\Debug\net6.0\Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\obj\Debug\net6.0\Knight Game.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\obj\Debug\net6.0\Knight Game.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\obj\Debug\net6.0\refint\Knight Game.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\obj\Debug\net6.0\Knight Game.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\obj\Debug\net6.0\Knight Game.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\Knight Game\obj\Debug\net6.0\ref\Knight Game.dll

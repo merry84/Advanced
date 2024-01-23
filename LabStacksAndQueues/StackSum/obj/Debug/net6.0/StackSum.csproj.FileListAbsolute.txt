@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\bin\Debug\net6.0\StackSum.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\bin\Debug\net6.0\StackSum.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\bin\Debug\net6.0\StackSum.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\bin\Debug\net6.0\StackSum.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\bin\Debug\net6.0\StackSum.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\obj\Debug\net6.0\StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\obj\Debug\net6.0\StackSum.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\obj\Debug\net6.0\StackSum.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\obj\Debug\net6.0\StackSum.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\obj\Debug\net6.0\StackSum.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\obj\Debug\net6.0\refint\StackSum.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\obj\Debug\net6.0\StackSum.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\obj\Debug\net6.0\StackSum.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\StackSum\obj\Debug\net6.0\ref\StackSum.dll

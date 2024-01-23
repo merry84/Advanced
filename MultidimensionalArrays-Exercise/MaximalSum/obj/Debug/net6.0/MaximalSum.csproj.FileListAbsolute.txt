@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\bin\Debug\net6.0\MaximalSum.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\bin\Debug\net6.0\MaximalSum.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\bin\Debug\net6.0\MaximalSum.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\bin\Debug\net6.0\MaximalSum.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\bin\Debug\net6.0\MaximalSum.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\obj\Debug\net6.0\MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\obj\Debug\net6.0\MaximalSum.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\obj\Debug\net6.0\MaximalSum.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\obj\Debug\net6.0\MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\obj\Debug\net6.0\MaximalSum.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\obj\Debug\net6.0\MaximalSum.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\obj\Debug\net6.0\refint\MaximalSum.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\obj\Debug\net6.0\MaximalSum.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\obj\Debug\net6.0\MaximalSum.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\MaximalSum\obj\Debug\net6.0\ref\MaximalSum.dll

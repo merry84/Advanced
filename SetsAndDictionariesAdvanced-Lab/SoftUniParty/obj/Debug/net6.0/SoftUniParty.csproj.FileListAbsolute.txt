@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\bin\Debug\net6.0\SoftUniParty.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\bin\Debug\net6.0\SoftUniParty.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\bin\Debug\net6.0\SoftUniParty.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\bin\Debug\net6.0\SoftUniParty.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\bin\Debug\net6.0\SoftUniParty.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\obj\Debug\net6.0\SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\obj\Debug\net6.0\SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\obj\Debug\net6.0\SoftUniParty.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\obj\Debug\net6.0\SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\obj\Debug\net6.0\SoftUniParty.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\obj\Debug\net6.0\SoftUniParty.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\obj\Debug\net6.0\refint\SoftUniParty.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\obj\Debug\net6.0\SoftUniParty.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\obj\Debug\net6.0\SoftUniParty.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\SoftUniParty\obj\Debug\net6.0\ref\SoftUniParty.dll

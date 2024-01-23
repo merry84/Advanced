@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\bin\Debug\net6.0\BalancedParenthesis.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\bin\Debug\net6.0\BalancedParenthesis.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\bin\Debug\net6.0\BalancedParenthesis.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\bin\Debug\net6.0\BalancedParenthesis.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\bin\Debug\net6.0\BalancedParenthesis.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\obj\Debug\net6.0\refint\BalancedParenthesis.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BalancedParenthesis\obj\Debug\net6.0\ref\BalancedParenthesis.dll

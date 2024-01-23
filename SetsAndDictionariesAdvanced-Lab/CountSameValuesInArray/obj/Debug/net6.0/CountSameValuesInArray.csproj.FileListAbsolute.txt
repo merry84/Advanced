@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\bin\Debug\net6.0\CountSameValuesInArray.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\bin\Debug\net6.0\CountSameValuesInArray.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\bin\Debug\net6.0\CountSameValuesInArray.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\bin\Debug\net6.0\CountSameValuesInArray.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\bin\Debug\net6.0\CountSameValuesInArray.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\refint\CountSameValuesInArray.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\CountSameValuesInArray.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\SetsAndDictionariesAdvanced-Lab\CountSameValuesInArray\obj\Debug\net6.0\ref\CountSameValuesInArray.dll

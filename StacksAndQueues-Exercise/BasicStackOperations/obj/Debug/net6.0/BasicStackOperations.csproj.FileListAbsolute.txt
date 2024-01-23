@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\obj\Debug\net6.0\refint\BasicStackOperations.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\BasicStackOperations\obj\Debug\net6.0\ref\BasicStackOperations.dll

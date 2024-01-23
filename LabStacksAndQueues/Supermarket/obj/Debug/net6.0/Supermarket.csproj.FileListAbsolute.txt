@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\bin\Debug\net6.0\Supermarket.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\bin\Debug\net6.0\Supermarket.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\bin\Debug\net6.0\Supermarket.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\bin\Debug\net6.0\Supermarket.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\bin\Debug\net6.0\Supermarket.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\obj\Debug\net6.0\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\obj\Debug\net6.0\Supermarket.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\obj\Debug\net6.0\Supermarket.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\obj\Debug\net6.0\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\obj\Debug\net6.0\Supermarket.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\obj\Debug\net6.0\refint\Supermarket.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\obj\Debug\net6.0\Supermarket.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\obj\Debug\net6.0\Supermarket.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\Supermarket\obj\Debug\net6.0\ref\Supermarket.dll

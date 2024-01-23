@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\net6.0\refint\JaggedArrayManipulator.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\net6.0\ref\JaggedArrayManipulator.dll

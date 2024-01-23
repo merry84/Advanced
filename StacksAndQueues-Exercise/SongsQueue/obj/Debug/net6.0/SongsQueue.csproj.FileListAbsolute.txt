@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\bin\Debug\net6.0\SongsQueue.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\bin\Debug\net6.0\SongsQueue.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\bin\Debug\net6.0\SongsQueue.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\bin\Debug\net6.0\SongsQueue.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\bin\Debug\net6.0\SongsQueue.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\refint\SongsQueue.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\SongsQueue.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SongsQueue\obj\Debug\net6.0\ref\SongsQueue.dll

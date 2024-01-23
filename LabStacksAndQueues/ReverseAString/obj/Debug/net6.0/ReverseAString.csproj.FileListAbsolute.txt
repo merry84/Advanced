@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\bin\Debug\net6.0\ReverseAString.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\bin\Debug\net6.0\ReverseAString.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\bin\Debug\net6.0\ReverseAString.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\bin\Debug\net6.0\ReverseAString.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\bin\Debug\net6.0\ReverseAString.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\obj\Debug\net6.0\ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\obj\Debug\net6.0\ReverseAString.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\obj\Debug\net6.0\ReverseAString.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\obj\Debug\net6.0\ReverseAString.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\obj\Debug\net6.0\ReverseAString.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\obj\Debug\net6.0\refint\ReverseAString.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\obj\Debug\net6.0\ReverseAString.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\obj\Debug\net6.0\ReverseAString.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\ReverseAString\obj\Debug\net6.0\ref\ReverseAString.dll

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\bin\Debug\net6.0\SumMatrixElements.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\bin\Debug\net6.0\SumMatrixElements.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\bin\Debug\net6.0\SumMatrixElements.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\bin\Debug\net6.0\SumMatrixElements.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\bin\Debug\net6.0\SumMatrixElements.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\obj\Debug\net6.0\SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\obj\Debug\net6.0\SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\obj\Debug\net6.0\SumMatrixElements.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\obj\Debug\net6.0\SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\obj\Debug\net6.0\SumMatrixElements.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\obj\Debug\net6.0\SumMatrixElements.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\obj\Debug\net6.0\refint\SumMatrixElements.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\obj\Debug\net6.0\SumMatrixElements.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\obj\Debug\net6.0\SumMatrixElements.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\SumMatrixElements\obj\Debug\net6.0\ref\SumMatrixElements.dll

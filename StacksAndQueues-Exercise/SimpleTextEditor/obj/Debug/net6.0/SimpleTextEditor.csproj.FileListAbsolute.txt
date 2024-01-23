@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\bin\Debug\net6.0\SimpleTextEditor.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\bin\Debug\net6.0\SimpleTextEditor.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\bin\Debug\net6.0\SimpleTextEditor.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\bin\Debug\net6.0\SimpleTextEditor.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\bin\Debug\net6.0\SimpleTextEditor.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\refint\SimpleTextEditor.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\SimpleTextEditor.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\StacksAndQueues-Exercise\SimpleTextEditor\obj\Debug\net6.0\ref\SimpleTextEditor.dll

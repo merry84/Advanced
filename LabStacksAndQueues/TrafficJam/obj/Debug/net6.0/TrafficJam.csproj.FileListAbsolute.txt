@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\bin\Debug\net6.0\TrafficJam.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\bin\Debug\net6.0\TrafficJam.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\bin\Debug\net6.0\TrafficJam.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\bin\Debug\net6.0\TrafficJam.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\bin\Debug\net6.0\TrafficJam.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\obj\Debug\net6.0\TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\obj\Debug\net6.0\TrafficJam.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\obj\Debug\net6.0\TrafficJam.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\obj\Debug\net6.0\TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\obj\Debug\net6.0\TrafficJam.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\obj\Debug\net6.0\refint\TrafficJam.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\obj\Debug\net6.0\TrafficJam.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\obj\Debug\net6.0\TrafficJam.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\LabStacksAndQueues\TrafficJam\obj\Debug\net6.0\ref\TrafficJam.dll

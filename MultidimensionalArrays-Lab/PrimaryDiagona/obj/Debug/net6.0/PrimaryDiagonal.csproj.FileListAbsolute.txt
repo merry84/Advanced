@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\bin\Debug\net6.0\PrimaryDiagonal.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\bin\Debug\net6.0\PrimaryDiagonal.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\bin\Debug\net6.0\PrimaryDiagonal.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\bin\Debug\net6.0\PrimaryDiagonal.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\bin\Debug\net6.0\PrimaryDiagonal.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\obj\Debug\net6.0\PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\obj\Debug\net6.0\PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\obj\Debug\net6.0\PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\obj\Debug\net6.0\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\obj\Debug\net6.0\PrimaryDiagonal.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\obj\Debug\net6.0\PrimaryDiagonal.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\obj\Debug\net6.0\refint\PrimaryDiagonal.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\obj\Debug\net6.0\PrimaryDiagonal.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\obj\Debug\net6.0\PrimaryDiagonal.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Lab\PrimaryDiagona\obj\Debug\net6.0\ref\PrimaryDiagonal.dll
