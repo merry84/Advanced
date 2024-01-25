@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\bin\Debug\net6.0\EvenTimes.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\refint\EvenTimes.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\EvenTimes.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\EvenTimes\obj\Debug\net6.0\ref\EvenTimes.dll

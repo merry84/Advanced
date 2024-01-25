@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\bin\Debug\net6.0\CountSymbols.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\bin\Debug\net6.0\CountSymbols.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\bin\Debug\net6.0\CountSymbols.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\bin\Debug\net6.0\CountSymbols.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\bin\Debug\net6.0\CountSymbols.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\refint\CountSymbols.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\CountSymbols.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\CountSymbols\obj\Debug\net6.0\ref\CountSymbols.dll

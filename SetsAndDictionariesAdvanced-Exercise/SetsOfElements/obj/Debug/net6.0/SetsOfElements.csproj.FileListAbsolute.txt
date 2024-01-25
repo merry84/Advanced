@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\bin\Debug\net6.0\SetsOfElements.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\bin\Debug\net6.0\SetsOfElements.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\bin\Debug\net6.0\SetsOfElements.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\bin\Debug\net6.0\SetsOfElements.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\bin\Debug\net6.0\SetsOfElements.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\obj\Debug\net6.0\SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\obj\Debug\net6.0\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\obj\Debug\net6.0\SetsOfElements.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\obj\Debug\net6.0\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\obj\Debug\net6.0\SetsOfElements.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\obj\Debug\net6.0\SetsOfElements.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\obj\Debug\net6.0\refint\SetsOfElements.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\obj\Debug\net6.0\SetsOfElements.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\obj\Debug\net6.0\SetsOfElements.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\SetsAndDictionariesAdvanced-Exercise\SetsOfElements\obj\Debug\net6.0\ref\SetsOfElements.dll
