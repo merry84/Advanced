@@ -1,4 +1,2 @@
-C# Advanced SoftUni
-Exercises
-Lab
-Exam
+C# Advanced SoftUni.
+Exercises,Lab and Exam
