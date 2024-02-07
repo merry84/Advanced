@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\refint\CustomMinFunction.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\net6.0\ref\CustomMinFunction.dll

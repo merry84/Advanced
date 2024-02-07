@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\bin\Debug\net6.0\WordCount.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\bin\Debug\net6.0\WordCount.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\bin\Debug\net6.0\WordCount.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\bin\Debug\net6.0\WordCount.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\bin\Debug\net6.0\WordCount.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\obj\Debug\net6.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\obj\Debug\net6.0\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\obj\Debug\net6.0\WordCount.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\obj\Debug\net6.0\WordCount.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\obj\Debug\net6.0\refint\WordCount.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\obj\Debug\net6.0\WordCount.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\obj\Debug\net6.0\WordCount.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\WordCount\obj\Debug\net6.0\ref\WordCount.dll

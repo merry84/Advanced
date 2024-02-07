@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\bin\Debug\net6.0\OddLine.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\bin\Debug\net6.0\OddLine.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\bin\Debug\net6.0\OddLine.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\bin\Debug\net6.0\OddLine.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\bin\Debug\net6.0\OddLine.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\obj\Debug\net6.0\OddLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\obj\Debug\net6.0\OddLine.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\obj\Debug\net6.0\OddLine.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\obj\Debug\net6.0\OddLine.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\obj\Debug\net6.0\OddLine.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\obj\Debug\net6.0\OddLine.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\obj\Debug\net6.0\refint\OddLine.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\obj\Debug\net6.0\OddLine.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\obj\Debug\net6.0\OddLine.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\odd\obj\Debug\net6.0\ref\OddLine.dll

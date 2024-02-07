@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\refint\AppliedArithmetics.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\net6.0\ref\AppliedArithmetics.dll

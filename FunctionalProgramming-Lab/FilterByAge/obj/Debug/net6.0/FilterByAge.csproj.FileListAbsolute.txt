@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\bin\Debug\net6.0\FilterByAge.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\bin\Debug\net6.0\FilterByAge.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\bin\Debug\net6.0\FilterByAge.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\bin\Debug\net6.0\FilterByAge.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\bin\Debug\net6.0\FilterByAge.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\refint\FilterByAge.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\FilterByAge.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\FilterByAge\obj\Debug\net6.0\ref\FilterByAge.dll

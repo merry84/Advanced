@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net6.0\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net6.0\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net6.0\LineNumbers.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net6.0\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net6.0\LineNumbers.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\net6.0\LineNumbers.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\net6.0\LineNumbers.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\net6.0\LineNumbers.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\net6.0\LineNumbers.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\net6.0\LineNumbers.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net6.0\LineNumbers.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net6.0\refint\LineNumbers.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net6.0\LineNumbers.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net6.0\LineNumbers.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net6.0\ref\LineNumbers.dll

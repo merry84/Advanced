@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\refint\GenericCountMethodDouble.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\ref\GenericCountMethodDouble.dll

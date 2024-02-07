@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\refint\DefineAClassPerson.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\ref\DefineAClassPerson.dll

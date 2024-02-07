@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\bin\Debug\net6.0\OldestFamilyMember.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\bin\Debug\net6.0\OldestFamilyMember.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\bin\Debug\net6.0\OldestFamilyMember.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\bin\Debug\net6.0\OldestFamilyMember.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\bin\Debug\net6.0\OldestFamilyMember.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\obj\Debug\net6.0\refint\OldestFamilyMember.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Exercise\OldestFamilyMember\obj\Debug\net6.0\ref\OldestFamilyMember.dll

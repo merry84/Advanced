@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\refint\GenericSwapMethodInteger.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\ref\GenericSwapMethodInteger.dll

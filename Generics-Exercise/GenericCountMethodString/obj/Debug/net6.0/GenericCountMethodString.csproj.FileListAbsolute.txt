@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\bin\Debug\net6.0\GenericCountMethodString.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\bin\Debug\net6.0\GenericCountMethodString.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\bin\Debug\net6.0\GenericCountMethodString.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\bin\Debug\net6.0\GenericCountMethodString.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\bin\Debug\net6.0\GenericCountMethodString.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\obj\Debug\net6.0\GenericCountMethodString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\obj\Debug\net6.0\GenericCountMethodString.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\obj\Debug\net6.0\GenericCountMethodString.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\obj\Debug\net6.0\GenericCountMethodString.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\obj\Debug\net6.0\GenericCountMethodString.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\obj\Debug\net6.0\GenericCountMethodString.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\obj\Debug\net6.0\refint\GenericCountMethodString.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\obj\Debug\net6.0\GenericCountMethodString.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\obj\Debug\net6.0\GenericCountMethodString.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\Generics-Exercise\GenericCountMethodString\obj\Debug\net6.0\ref\GenericCountMethodString.dll

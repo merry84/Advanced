@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\bin\Debug\net6.0\SpecialCars.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\bin\Debug\net6.0\SpecialCars.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\bin\Debug\net6.0\SpecialCars.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\bin\Debug\net6.0\SpecialCars.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\bin\Debug\net6.0\SpecialCars.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\refint\SpecialCars.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\SpecialCars.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\DefiningClasses-Lab\SpecialCars\obj\Debug\net6.0\ref\SpecialCars.dll

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\refint\SortEvenNumbers.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\FunctionalProgramming-Lab\SortEvenNumbers\obj\Debug\net6.0\ref\SortEvenNumbers.dll
