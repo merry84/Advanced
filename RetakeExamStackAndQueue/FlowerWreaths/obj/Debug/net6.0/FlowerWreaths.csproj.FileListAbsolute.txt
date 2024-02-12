@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\bin\Debug\net6.0\FlowerWreaths.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\bin\Debug\net6.0\FlowerWreaths.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\bin\Debug\net6.0\FlowerWreaths.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\bin\Debug\net6.0\FlowerWreaths.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\bin\Debug\net6.0\FlowerWreaths.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\obj\Debug\net6.0\refint\FlowerWreaths.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\FlowerWreaths\obj\Debug\net6.0\ref\FlowerWreaths.dll

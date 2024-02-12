@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TruckTour")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+137c226f09361c204242ad6241cd4fa187cf2f21")]
 [assembly: System.Reflection.AssemblyProductAttribute("TruckTour")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TruckTour")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

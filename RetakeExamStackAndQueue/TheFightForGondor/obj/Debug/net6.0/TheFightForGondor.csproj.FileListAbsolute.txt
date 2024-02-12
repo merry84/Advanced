@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\bin\Debug\net6.0\TheFightForGondor.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\bin\Debug\net6.0\TheFightForGondor.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\bin\Debug\net6.0\TheFightForGondor.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\bin\Debug\net6.0\TheFightForGondor.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\bin\Debug\net6.0\TheFightForGondor.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\obj\Debug\net6.0\TheFightForGondor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\obj\Debug\net6.0\TheFightForGondor.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\obj\Debug\net6.0\TheFightForGondor.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\obj\Debug\net6.0\TheFightForGondor.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\obj\Debug\net6.0\TheFightForGondor.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\obj\Debug\net6.0\TheFightForGondor.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\obj\Debug\net6.0\refint\TheFightForGondor.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\obj\Debug\net6.0\TheFightForGondor.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\obj\Debug\net6.0\TheFightForGondor.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\TheFightForGondor\obj\Debug\net6.0\ref\TheFightForGondor.dll

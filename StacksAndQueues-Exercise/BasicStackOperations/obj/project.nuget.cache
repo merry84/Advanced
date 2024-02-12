@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0x0ob8MdC9aLDeRuTXdMSV/p8xxjC3dLMco5uTpDhyME8CDiwHDD19p9zCRsgrrliwSLsKN4BUo2qyl13OELdg==",
+  "dgSpecHash": "mHTnU41eYPYrqvY81KdtNYC2tC2nK9YitN9CFB1odQLiRhXZW8eapskDRe0BgfeNUTEQ1+jSYR2ZDVqjaaPZPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\StacksAndQueues-Exercise\\BasicStackOperations\\BasicStackOperations.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\StacksAndQueues-Exercise\\BasicStackOperations\\BasicStackOperations.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\bin\Debug\net6.0\Cooking.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\bin\Debug\net6.0\Cooking.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\bin\Debug\net6.0\Cooking.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\bin\Debug\net6.0\Cooking.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\bin\Debug\net6.0\Cooking.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\obj\Debug\net6.0\Cooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\obj\Debug\net6.0\Cooking.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\obj\Debug\net6.0\Cooking.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\obj\Debug\net6.0\Cooking.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\obj\Debug\net6.0\Cooking.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\obj\Debug\net6.0\Cooking.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\obj\Debug\net6.0\refint\Cooking.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\obj\Debug\net6.0\Cooking.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\obj\Debug\net6.0\Cooking.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Cooking\obj\Debug\net6.0\ref\Cooking.dll

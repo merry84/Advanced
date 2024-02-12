@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TFljY5581KiJCs4hVJCdz/iHALmIHnnsknEKKHE/IyidfPUi0fIHYxo0276OSZfWq8Jh0Tqwh+aUFyaSwZNqxA==",
+  "dgSpecHash": "WpBNChnmCusTpjY5BBOtPANjDLH4j887vzd1U53AbO8h/P0ir4s+oQT2BydpOexb71DsxjLrbk9afzeB++qE9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\StacksAndQueues-Exercise\\BalancedParenthesis\\BalancedParenthesis.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\StacksAndQueues-Exercise\\BalancedParenthesis\\BalancedParenthesis.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

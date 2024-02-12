@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\StacksAndQueues-Exercise\\TruckTour\\TruckTour.csproj": {}
+    "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\StacksAndQueues-Exercise\\TruckTour\\TruckTour.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\StacksAndQueues-Exercise\\TruckTour\\TruckTour.csproj": {
+    "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\StacksAndQueues-Exercise\\TruckTour\\TruckTour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\StacksAndQueues-Exercise\\TruckTour\\TruckTour.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\StacksAndQueues-Exercise\\TruckTour\\TruckTour.csproj",
         "projectName": "TruckTour",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\StacksAndQueues-Exercise\\TruckTour\\TruckTour.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\StacksAndQueues-Exercise\\TruckTour\\TruckTour.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\StacksAndQueues-Exercise\\TruckTour\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\StacksAndQueues-Exercise\\TruckTour\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

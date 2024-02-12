@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\bin\Debug\net6.0\Masterchef.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\bin\Debug\net6.0\Masterchef.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\bin\Debug\net6.0\Masterchef.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\bin\Debug\net6.0\Masterchef.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\bin\Debug\net6.0\Masterchef.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\obj\Debug\net6.0\Masterchef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\obj\Debug\net6.0\Masterchef.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\obj\Debug\net6.0\Masterchef.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\obj\Debug\net6.0\Masterchef.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\obj\Debug\net6.0\Masterchef.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\obj\Debug\net6.0\Masterchef.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\obj\Debug\net6.0\refint\Masterchef.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\obj\Debug\net6.0\Masterchef.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\obj\Debug\net6.0\Masterchef.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Masterchef\obj\Debug\net6.0\ref\Masterchef.dll

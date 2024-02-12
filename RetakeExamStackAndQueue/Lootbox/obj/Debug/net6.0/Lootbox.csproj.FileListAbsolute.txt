@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\bin\Debug\net6.0\Lootbox.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\bin\Debug\net6.0\Lootbox.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\bin\Debug\net6.0\Lootbox.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\bin\Debug\net6.0\Lootbox.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\bin\Debug\net6.0\Lootbox.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\obj\Debug\net6.0\Lootbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\obj\Debug\net6.0\Lootbox.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\obj\Debug\net6.0\Lootbox.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\obj\Debug\net6.0\Lootbox.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\obj\Debug\net6.0\Lootbox.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\obj\Debug\net6.0\Lootbox.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\obj\Debug\net6.0\refint\Lootbox.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\obj\Debug\net6.0\Lootbox.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\obj\Debug\net6.0\Lootbox.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\Lootbox\obj\Debug\net6.0\ref\Lootbox.dll

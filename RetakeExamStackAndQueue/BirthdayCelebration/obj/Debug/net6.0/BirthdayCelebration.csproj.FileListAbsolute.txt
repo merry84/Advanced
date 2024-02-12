@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\bin\Debug\net6.0\BirthdayCelebration.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\bin\Debug\net6.0\BirthdayCelebration.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\bin\Debug\net6.0\BirthdayCelebration.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\bin\Debug\net6.0\BirthdayCelebration.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\bin\Debug\net6.0\BirthdayCelebration.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\obj\Debug\net6.0\BirthdayCelebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\obj\Debug\net6.0\BirthdayCelebration.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\obj\Debug\net6.0\BirthdayCelebration.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\obj\Debug\net6.0\BirthdayCelebration.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\obj\Debug\net6.0\BirthdayCelebration.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\obj\Debug\net6.0\BirthdayCelebration.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\obj\Debug\net6.0\refint\BirthdayCelebration.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\obj\Debug\net6.0\BirthdayCelebration.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\obj\Debug\net6.0\BirthdayCelebration.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamStackAndQueue\BirthdayCelebration\obj\Debug\net6.0\ref\BirthdayCelebration.dll
