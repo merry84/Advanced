@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\bin\Debug\net6.0\Warships.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\bin\Debug\net6.0\Warships.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\bin\Debug\net6.0\Warships.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\bin\Debug\net6.0\Warships.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\bin\Debug\net6.0\Warships.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\obj\Debug\net6.0\Warships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\obj\Debug\net6.0\Warships.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\obj\Debug\net6.0\Warships.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\obj\Debug\net6.0\Warships.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\obj\Debug\net6.0\Warships.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\obj\Debug\net6.0\Warships.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\obj\Debug\net6.0\refint\Warships.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\obj\Debug\net6.0\Warships.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\obj\Debug\net6.0\Warships.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Warships\obj\Debug\net6.0\ref\Warships.dll

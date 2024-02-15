@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\bin\Debug\net6.0\TruffleHunter.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\bin\Debug\net6.0\TruffleHunter.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\bin\Debug\net6.0\TruffleHunter.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\bin\Debug\net6.0\TruffleHunter.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\bin\Debug\net6.0\TruffleHunter.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\obj\Debug\net6.0\TruffleHunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\obj\Debug\net6.0\TruffleHunter.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\obj\Debug\net6.0\TruffleHunter.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\obj\Debug\net6.0\TruffleHunter.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\obj\Debug\net6.0\TruffleHunter.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\obj\Debug\net6.0\TruffleHunter.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\obj\Debug\net6.0\refint\TruffleHunter.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\obj\Debug\net6.0\TruffleHunter.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\obj\Debug\net6.0\TruffleHunter.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\TruffleHunter\obj\Debug\net6.0\ref\TruffleHunter.dll

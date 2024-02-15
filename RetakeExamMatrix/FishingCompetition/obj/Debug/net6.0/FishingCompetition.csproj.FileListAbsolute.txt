@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\bin\Debug\net6.0\FishingCompetition.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\bin\Debug\net6.0\FishingCompetition.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\bin\Debug\net6.0\FishingCompetition.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\bin\Debug\net6.0\FishingCompetition.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\bin\Debug\net6.0\FishingCompetition.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\obj\Debug\net6.0\FishingCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\obj\Debug\net6.0\FishingCompetition.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\obj\Debug\net6.0\FishingCompetition.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\obj\Debug\net6.0\FishingCompetition.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\obj\Debug\net6.0\FishingCompetition.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\obj\Debug\net6.0\FishingCompetition.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\obj\Debug\net6.0\refint\FishingCompetition.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\obj\Debug\net6.0\FishingCompetition.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\obj\Debug\net6.0\FishingCompetition.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\FishingCompetition\obj\Debug\net6.0\ref\FishingCompetition.dll

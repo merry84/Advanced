@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\bin\Debug\net6.0\Armory.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\bin\Debug\net6.0\Armory.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\bin\Debug\net6.0\Armory.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\bin\Debug\net6.0\Armory.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\bin\Debug\net6.0\Armory.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\obj\Debug\net6.0\Armory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\obj\Debug\net6.0\Armory.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\obj\Debug\net6.0\Armory.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\obj\Debug\net6.0\Armory.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\obj\Debug\net6.0\Armory.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\obj\Debug\net6.0\Armory.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\obj\Debug\net6.0\refint\Armory.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\obj\Debug\net6.0\Armory.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\obj\Debug\net6.0\Armory.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\Armory\obj\Debug\net6.0\ref\Armory.dll

@@ -1,59 +1,81 @@
-﻿Queue<int> guests = new Queue<int>(Console.ReadLine()
-                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
-                .Select(int.Parse)
-                .ToArray());
-Stack<int> plates = new Stack<int>(Console.ReadLine()
+﻿//пълнене на матрица
+int[] sizes = Console.ReadLine()
     .Split(" ", StringSplitOptions.RemoveEmptyEntries)
     .Select(int.Parse)
-    .ToArray());
-int wastedGramsOfFood = 0;
-while (guests.Any() && plates.Any())
-{
-    int guest = guests.Peek();
-    int plate = plates.Peek();
+    .ToArray();
 
-    int reduceResult = guest - plate;
-    if (reduceResult <= 0)
+string[,] matrix = new string[sizes[0], sizes[1]];
+
+for (int row = 0; row < matrix.GetLength(0); row++)
+{
+    string[] newRow = Console.ReadLine()
+        .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+    for (int col = 0; col < matrix.GetLength(1); col++)
     {
-        wastedGramsOfFood += reduceResult;
-        guests.Dequeue();
-        plates.Pop();
+        matrix[row, col] = newRow[col];
     }
-    else//reduceResult > 0
-    {
-        guests.Dequeue();
-        plates.Pop();
-        //Ако сте успели да напълните всички гости, отпечатайте останалите готови чинии с храна, от последната въведена – до първата,
-        //в противен случай трябва да отпечатате останалите гости, по ред на влизане – от първата въведена – до последната .
-        guests = new Queue<int>(guests.Reverse());
-        guests.Enqueue(reduceResult);
-        guests = new Queue<int>(guests.Reverse());
-    }
-
 }
 
-if (guests.Any())
-{
-    Console.WriteLine($"Plates: {string.Join(" ", guests)}");
-}
 
-if (plates.Any())
-{
-    Console.WriteLine($"Guests: {string.Join(" ", plates)}");
-}
-Console.WriteLine($"Wasted grams of food: {Math.Abs(wastedGramsOfFood)}");
-// Stack<int> guests = new Stack<int>(Console.ReadLine().Split().Select(int.Parse).ToArray().Reverse());
-// Stack<int> food = new Stack<int>(Console.ReadLine().Split().Select(int.Parse).ToArray());
-//       int wastedFoodCounter = 0;
-//            while (true)
+//int size = int.Parse(Console.ReadLine());
+//char[,] matrix = new char[size, size];
+
+//for (int row = 0; row < matrix.GetLength(0); row++)
+//{
+//    string newRow = Console.ReadLine();
+//    for (int col = 0; col < matrix.GetLength(1); col++)
+//    {
+//        matrix[row, col] = newRow[col];
+//    }
+//}
+//рандъм позиция
+//     private static int[] GetCoords(char[,] matrix)
+//{
+//    int[] coords = new int[2];
+//    for (int i = 0; i < matrix.GetLength(0); i++)
+//    {
+//        for (int j = 0; j < matrix.GetLength(1); j++)
+//        {
+//            if (matrix[i, j] == 'A')
 //            {
-//                if (!guests.Any() || !food.Any()) break;
-//                int currGuest = guests.Pop();
-//                int currFood = food.Pop();
-//                currGuest -= currFood;
-//                if (currGuest <= 0) wastedFoodCounter -= currGuest;
-//                else guests.Push(currGuest);
+//                coords[0] = i;
+//                coords[1] = j;
+//                matrix[i, j] = '-';
+//                return coords;
 //            }
-//            if (food.Any()) Console.WriteLine($"Plates: {string.Join(" ", food)}");
-//            else Console.WriteLine($"Guests: {string.Join(" ", guests)}");
-//            Console.
+//        }
+//    }
+//    return coords;
+//}
+
+
+
+//печатане на матрица
+static void PrintMatrix(string[,] matrix)
+{
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            Console.Write(matrix[i, j] + " ");
+        }
+        Console.WriteLine();
+    }
+}
+//проверка дали е в матрицата
+static bool IsValidIndex(int size, int row, int col)
+{
+    return row >= 0 && row < size && col >= 0 && col < size;
+}
+
+//заместване на символи
+//private static bool EatBoat(int row, int col, char[,] matrix)
+//{
+//    char currentSymbol = matrix[row, col];
+//    if (currentSymbol == 'S' || currentSymbol == 'W' || currentSymbol == 'B')
+//    {
+//        matrix[row, col] = '-';
+//        return true;
+//    }
+//    return false;
+//}

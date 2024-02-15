@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = JaggedArrayManipulator
-build_property.ProjectDir = C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\MultidimensionalArrays-Exercise\JaggedArrayManipulator\
+build_property.ProjectDir = C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\MultidimensionalArrays-Exercise\JaggedArrayManipulator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

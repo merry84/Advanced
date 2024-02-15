@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\MultidimensionalArrays-Exercise\\Knight Game\\Knight Game.csproj": {}
+    "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\MultidimensionalArrays-Exercise\\Knight Game\\Knight Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\MultidimensionalArrays-Exercise\\Knight Game\\Knight Game.csproj": {
+    "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\MultidimensionalArrays-Exercise\\Knight Game\\Knight Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\MultidimensionalArrays-Exercise\\Knight Game\\Knight Game.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\MultidimensionalArrays-Exercise\\Knight Game\\Knight Game.csproj",
         "projectName": "Knight Game",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\MultidimensionalArrays-Exercise\\Knight Game\\Knight Game.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\MultidimensionalArrays-Exercise\\Knight Game\\Knight Game.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\MultidimensionalArrays-Exercise\\Knight Game\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\MultidimensionalArrays-Exercise\\Knight Game\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

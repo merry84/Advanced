@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\MultidimensionalArrays-Exercise\\MaximalSum\\MaximalSum.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\MultidimensionalArrays-Exercise\\MaximalSum\\MaximalSum.csproj",
       "projectName": "MaximalSum",
-      "projectPath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\MultidimensionalArrays-Exercise\\MaximalSum\\MaximalSum.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\MultidimensionalArrays-Exercise\\MaximalSum\\MaximalSum.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\MultidimensionalArrays-Exercise\\MaximalSum\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\Pb-Csharp\\Gihub\\advanced\\AdvancedCSharp\\Advanced\\MultidimensionalArrays-Exercise\\MaximalSum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
