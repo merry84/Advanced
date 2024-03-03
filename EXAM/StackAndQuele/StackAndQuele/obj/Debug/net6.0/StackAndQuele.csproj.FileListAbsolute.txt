@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\bin\Debug\net6.0\StackAndQuele.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\bin\Debug\net6.0\StackAndQuele.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\bin\Debug\net6.0\StackAndQuele.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\bin\Debug\net6.0\StackAndQuele.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\bin\Debug\net6.0\StackAndQuele.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\obj\Debug\net6.0\StackAndQuele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\obj\Debug\net6.0\StackAndQuele.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\obj\Debug\net6.0\StackAndQuele.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\obj\Debug\net6.0\StackAndQuele.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\obj\Debug\net6.0\StackAndQuele.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\obj\Debug\net6.0\StackAndQuele.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\obj\Debug\net6.0\refint\StackAndQuele.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\obj\Debug\net6.0\StackAndQuele.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\obj\Debug\net6.0\StackAndQuele.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\EXAM\StackAndQuele\StackAndQuele\obj\Debug\net6.0\ref\StackAndQuele.dll

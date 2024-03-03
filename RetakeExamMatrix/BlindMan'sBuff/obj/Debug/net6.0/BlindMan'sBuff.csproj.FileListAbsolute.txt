@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\bin\Debug\net6.0\BlindMan'sBuff.exe
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\bin\Debug\net6.0\BlindMan'sBuff.deps.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\bin\Debug\net6.0\BlindMan'sBuff.runtimeconfig.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\bin\Debug\net6.0\BlindMan'sBuff.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\bin\Debug\net6.0\BlindMan'sBuff.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.sourcelink.json
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\obj\Debug\net6.0\refint\BlindMan'sBuff.dll
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.pdb
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pb-Csharp\Gihub\advanced\AdvancedCSharp\Advanced\RetakeExamMatrix\BlindMan'sBuff\obj\Debug\net6.0\ref\BlindMan'sBuff.dll

@@ -15,7 +15,30 @@ for (int row = 0; row < matrix.GetLength(0); row++)
         matrix[row, col] = newRow[col];
     }
 }
+int battlefieldSize = int.Parse(Console.ReadLine());
 
+string[,] battleField = new string[battlefieldSize, battlefieldSize];
+
+int submRow = -1;
+int submCol = -1;
+
+int cruisersHit = 0;
+int minesHit = 0;
+
+for (int i = 0; i < battlefieldSize; i++)
+{
+    string rowInput = Console.ReadLine();
+    for (int j = 0; j < battlefieldSize; j++)
+    {
+        battleField[i, j] = rowInput[j].ToString();
+        if (rowInput[j] == 'S')
+        {
+            battleField[i, j] = "-";
+            submRow = i;
+            submCol = j;
+        }
+    }
+}
 
 //int size = int.Parse(Console.ReadLine());
 //char[,] matrix = new char[size, size];
